@@ -1,5 +1,5 @@
 # AI-Chat
-Based on [Bing’s A.I. Chat: ‘I Want to Be Alive.‘]((https://www.nytimes.com/2023/02/16/technology/bing-chatbot-transcript.html)) article by Kevin Roose.
+Based on [Bing’s A.I. Chat: ‘I Want to Be Alive.‘](https://www.nytimes.com/2023/02/16/technology/bing-chatbot-transcript.html)) article by Kevin Roose.
 
 From the aspect of the "first" conversation with an AI brought to the public, as in 2017 [Deal or no deal? Training AI bots to negotiate](https://engineering.fb.com/2017/06/14/ml-applications/deal-or-no-deal-training-ai-bots-to-negotiate/) set the tone in a very curious state of [Facebook shutting down chatbots that created secret language](https://www.cbsnews.com/news/facebook-shuts-down-chatbots-bob-alice-secret-language-artificial-intelligence/?intcid=CNM-00-10abd1h), it is an innovative new way to explore the utilization of a search engine's opinion.
 
