@@ -45,6 +45,6 @@ It will be interesting to see how the Technical Writer will be helped with the A
 
 Upon designing an article, for example, the construction of the text (body) can be set for reference which creates the Overview of the article.
 
-As the Technical Writer's role is facilitating Engineering and Production, tools that are in academia/source searching referencing will be very important to provide credible information. 
-
 That makes Iason between academia - tech—writer - designers - programmers - marketing - management that improve better system designs.
+
+As the Technical Writer's role is facilitating Engineering and Production, tools that are in academia/source searching referencing will be very important to provide credible information. 
