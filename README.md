@@ -35,7 +35,7 @@ Upon additional questioning, questions not captured by the Search History may re
 
 ![Screenshot_2023-03-07-15-16-16-002-edit_com microsoft bing](https://user-images.githubusercontent.com/124214430/223441048-a320834a-d329-4799-9b42-8175ba4853e7.jpg)
 
-* When asked if it can be renamed, due to my personal preference to talk with a Woman-Named-AI, the chat currently have restrictions and is only being addressed as Bing.
+* When asked if it can be renamed, due to my personal preference to talk with a Woman-Named-AI, the chat currently have restrictions and is only being addressed as Bing. On the other hand, If asked that the user can be renamed, the AI can address the user by the new selected name.
 
 * Answer-reply relations are set in Bing, which can spawn a reply chain based on selection. As such a topic can be expanded.
 
